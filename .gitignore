@@ -1,0 +1,4 @@
+data/
+results/*.pt
+*.log
+__pycache__/
